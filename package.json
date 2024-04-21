@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmegan802hb/voluptatibus-soluta-necessitatibus",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,25 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmmegan802hb/voluptatibus-soluta-necessitatibus.git"
   },
   "dependencies": {
+    "@npmmegan802hb/animi-magni-suscipit": "^1.0.0",
+    "@npmmegan802hb/aspernatur-laudantium-animi": "^1.0.0",
+    "@npmmegan802hb/corporis-explicabo-cupiditate": "^1.0.0",
+    "@npmmegan802hb/deleniti-suscipit-animi": "^1.0.0",
+    "@npmmegan802hb/distinctio-unde-minus": "^1.0.0",
+    "@npmmegan802hb/doloremque-tempora-quibusdam": "^1.0.0",
+    "@npmmegan802hb/est-assumenda-optio": "^1.0.0",
+    "@npmmegan802hb/et-consectetur-possimus": "^1.0.0",
+    "@npmmegan802hb/iste-vero-est": "^1.0.0",
+    "@npmmegan802hb/laborum-similique-accusamus": "^1.0.0",
+    "@npmmegan802hb/libero-fugiat-esse": "^1.0.0",
+    "@npmmegan802hb/pariatur-deserunt-voluptates": "^1.0.0",
+    "@npmmegan802hb/praesentium-et-neque": "^1.0.0",
+    "@npmmegan802hb/rem-cumque-quaerat": "^1.0.0",
+    "@npmmegan802hb/rerum-voluptas-labore": "^1.0.0",
+    "@npmmegan802hb/sunt-quibusdam-nesciunt": "^1.0.0",
+    "@npmmegan802hb/velit-necessitatibus-illo": "^1.0.0"
   }
 }
